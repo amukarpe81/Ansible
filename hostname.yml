@@ -1,0 +1,4 @@
+---
+  - hosts: 172.31.27.178
+    tasks:
+            - command: hostname

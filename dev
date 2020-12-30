@@ -1,0 +1,11 @@
+[loadbalancer]
+172.31.17.55
+
+[webserver]
+172.31.25.46
+
+[database]
+172.31.27.178
+
+[control]
+172.31.78.121
